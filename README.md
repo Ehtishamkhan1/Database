@@ -1,5 +1,14 @@
 # Blood Bank managment System
 
-## Objectives
-1. Provides the searching facilities based on various factors. such as Blood, Blood group , Blood bank, Stock.
-2. it tracks all the information of donour 
+1. Our blood bank mnanagement System will proivde access To both  donour and the seeker.
+   They both will use it according to their needs.
+  
+  
+  #GROUP MEMBERS
+  KASHAN JAVED    
+  AZMAR ALI KHAN
+  EHTIHSAM KHAN
+  
+  GROUP LEADER
+  EHTISHAM KHAN
+
