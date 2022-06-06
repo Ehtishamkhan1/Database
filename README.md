@@ -1,4 +1,4 @@
-# Blood bank managment System
+# Blood Bank managment System
 
 ## Objectives
 1. Provides the searching facilities based on various factors. such as Blood, Blood group , Blood bank, Stock.
